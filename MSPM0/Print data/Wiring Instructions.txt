@@ -1,0 +1,14 @@
+PS2 adapter board	MSPM0G3507
+  MOSI		PA27
+  MISO		PA26
+  GND		GND
+  CS		PA25
+  ACK		不接线
+  SCK		PA24
+  VCC		3V3
+
+MSPM0G3507	USB to TTL Module
+  PA10		 RXD
+  PA11		 TXD
+  3V3		 VCC
+  GND		 GND
