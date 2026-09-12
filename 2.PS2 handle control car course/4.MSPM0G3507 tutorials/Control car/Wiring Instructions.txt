@@ -1,0 +1,54 @@
+下层驱动板	左前轮
+   AO1		M1
+   AO2		M2
+   GND		G
+   3V3		V
+   E1B		B
+   E1A		A
+   
+下层驱动板	右前轮
+   BO1		M1
+   BO2		M2
+   GND		G
+   3V3		V
+   E2B		B
+   E2A		A
+   
+上层驱动板  	左后轮
+   AO1		M1
+   AO2		M2
+   GND		G
+   3V3		V
+   E1B		B
+   E1A		A
+   
+上层驱动板  	右后轮
+   BO1		M1
+   BO2		M2
+   GND		G
+   3V3		V
+   E2B		B
+   E2A		A
+   
+下层驱动板   	MSPM0G3507
+   AIN1		PA0
+   AIN2		PA1
+   BIN1		PA7
+   BIN2		PB2	
+	
+上层驱动板   	MSPM0G3507
+   AIN1		PB6
+   AIN2		PB7
+   BIN1		PA12
+   BIN2		PA13
+    5V		5V
+    GND		GND
+
+PS2转接板		MSPM0G3507
+  MOSI		PA27
+  MISO		PA26
+  GND		GND
+  CS		PA25
+  ACK		不接线
+  SCK		PA24
+  VCC		3V3

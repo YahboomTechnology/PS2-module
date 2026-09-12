@@ -1,0 +1,54 @@
+Lower driver board	     Front-left wheel
+   AO1			M1
+   AO2			M2
+   GND			G
+   3V3			V
+   E1B			B
+   E1A			A
+   
+Lower driver board	     Front-right wheel
+   BO1			M1
+   BO2			M2
+   GND			G
+   3V3			V
+   E2B			B
+   E2A			A
+   
+Upper driver board        Rear-left wheel
+   AO1			M1
+   AO2			M2
+   GND			G
+   3V3			V
+   E1B			B
+   E1A			A
+   
+Upper driver board	     Rear-right wheel
+   BO1			M1
+   BO2			M2
+   GND			G
+   3V3			V
+   E2B			B
+   E2A			A
+   
+Lower driver board           MSPM0G3519
+   AIN1			PA0
+   AIN2			PA1
+   BIN1			PA7
+   BIN2			PB2	
+	
+Upper driver board          MSPM0G3519
+   AIN1			PB6
+   AIN2			PB7
+   BIN1			PA12
+   BIN2			PA13
+    5V			5V
+    GND			GND
+
+PS2 adapter board	      MSPM0G3519
+  MOSI			PA27
+  MISO			PA26
+  GND			GND
+  CS			PA25
+  ACK			   \
+  SCK			PA24
+  VCC			3V3
